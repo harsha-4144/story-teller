@@ -23,10 +23,7 @@ Once upon a time, in a dense forest, there lived a clever rabbit. One day, the r
 
 **Listen:**
 
-<audio controls>
-  <source src="audio/story_1_the_clever_rabbit.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+▶️ [The Clever Rabbit Audio](audio/story_1_the_clever_rabbit.wav)
 
 ### Example 2: The Honest Woodcutter
 
