@@ -23,7 +23,9 @@ Once upon a time, in a dense forest, there lived a clever rabbit. One day, the r
 
 **Listen:**
 
-▶️ [The Clever Rabbit Audio](audio/story_1_the_clever_rabbit.wav)
+▶️ [Play The Clever Rabbit Audio](https://raw.githubusercontent.com/harsha-4144/story-teller/main/audio/story_1_the_clever_rabbit.wav)
+
+▶️ [Play The Honest Woodcutter Audio](https://raw.githubusercontent.com/harsha-4144/story-teller/main/audio/story_2_the_honest_woodcutter.wav)
 
 ### Example 2: The Honest Woodcutter
 
